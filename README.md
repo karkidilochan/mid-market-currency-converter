@@ -30,7 +30,7 @@ In order to maintain a consistent development environment across all developers,
 First build the backend docker image using the following make command:
 
 ```sh
-make docker/build-backend
+make docker/build
 ```
 
 ## Collect Environment file
