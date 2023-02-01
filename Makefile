@@ -1,6 +1,6 @@
 venv/build:
 	python3 -m venv virtualenv
-	virtualenv/bin/python -m pip install -r requirements-dev.txt
+	virtualenv/bin/python -m pip install -r requirements.txt
 
 venv/activate:
 	source virtualenv/bin/activate
